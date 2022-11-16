@@ -1,6 +1,6 @@
 import HeaderEstetica from "../../components/HeaderEstetica"
 
-export default function Cadastro() {
+export default function CadastroClientes() {
     return (
         <div className="bg-light">
             <HeaderEstetica />

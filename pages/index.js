@@ -19,7 +19,7 @@ export default function Home() {
         <h3 className='teste'>OLÁ, BEM VINDO AO NEWESTETICA!</h3>
 
         <div className='pt-3'>
-          <Link href="/cadastro"> <button type="button" className="btn btn-outline-primary m-2">Cadastro </button></Link>
+          <Link href="/cadastroclientes"> <button type="button" className="btn btn-outline-primary m-2">Cadastro </button></Link>
           <Link href="/procedimentos"> <button type="button" className="btn btn-outline-primary">Procedimentos</button></Link>
           <Link href="/agendamento"> <button type="button" className="btn btn-outline-primary">Agendamentos</button></Link>
         </div>

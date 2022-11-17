@@ -27,8 +27,8 @@ export default function Procedimentos() {
                 </select>
 
                 <div className="mb-3">
-                    <label for="exampleFormControlInput1" className="form-label">Valor do Procedimento</label>
-                    <input type="number" className="form-control" id="exampleFormControlInput1" placeholder=""></input>
+                    <label for="exampleFormControlInput1" className="form-label">Valor do Procedimento </label>
+                    <input type="number" className="form-control" id="exampleFormControlInput1" placeholder="R$"></input>
                 </div>
 
                 <div className="mb-3">
